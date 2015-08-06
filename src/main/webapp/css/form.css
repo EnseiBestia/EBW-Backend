@@ -1,0 +1,23 @@
+.form-group em{
+    color: red;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.help
+{
+    color:#737373;
+    vertical-align:bottom;
+    text-align: left;
+    font-size: 12px;
+}
+.zone-item {
+    line-height: 200%;
+    border-bottom: dotted 1px #e8e8e8;
+}
+
+.form-group label
+{
+    color: #666;
+}
